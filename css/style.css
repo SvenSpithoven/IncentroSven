@@ -66,7 +66,7 @@ ul {
   position: relative;
   overflow: hidden;
   align-items: stretch;
-  height: 400px;
+  height: 390px;
 }
 
 .card-text {
@@ -94,7 +94,7 @@ ul {
 
 .card-photo img {
   position: relative;
-  left: -150px;
+  left: -260px;
 }
 
 .hide-mobile {
